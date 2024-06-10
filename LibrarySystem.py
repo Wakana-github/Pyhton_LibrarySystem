@@ -1,7 +1,7 @@
 """
 This program is for a library inventory system.
 The functions of this system are display inventory, add a book, remove a book, and export inventory.
-Created by: Wakana Gushi
+Created by: Wakana.G
 Created on: 23/4/2023
 Last edited: 5/5/2023
 """
